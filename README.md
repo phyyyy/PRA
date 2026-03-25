@@ -48,3 +48,6 @@ If you find this work useful in your research, please cite:
 We thank the authors of the following repositories for making their code open-source.  
 1. https://github.com/qizhangli/ILPD-attack
 2. https://github.com/CUAI/Intermediate-Level-Attack
+
+## 📬 Contact
+Hongyu Peng: hongyupeng@mail.nwpu.edu.cn
