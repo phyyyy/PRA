@@ -1,0 +1,16 @@
+pycache/
+*.pyc
+*.pyo
+*.log
+*.npy
+.DS_Store
+
+adv/
+adv_cifar10/
+results.log
+results_imagenet.log
+results_cifar.log
+
+ckpt/
+cifar/
+ilsvrc2012/
