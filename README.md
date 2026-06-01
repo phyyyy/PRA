@@ -7,6 +7,11 @@ Xuxiang Sun*, Hongyu Peng*, Gong Cheng, Junwei Han
 Published in *Science China Information Sciences*, 2025  
 📄 [[Paper on ScienceDirect](https://link.springer.com/article/10.1007/s11432-024-4542-8)]
 
+<p align="center">
+  <img src="assets/fwd.png" width="48%" alt="fwd">
+  <img src="assets/bwd.png" width="48%" alt="bwd">
+</p>
+
 ## 🚀 Usage
 
 1. Prepare the necessary pretrained models and place them in ckpt folders.
