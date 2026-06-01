@@ -8,8 +8,8 @@ Published in *Science China Information Sciences*, 2025
 📄 [[Paper on ScienceDirect](https://link.springer.com/article/10.1007/s11432-024-4542-8)]
 
 <p align="center">
-  <img src="assets/fwd.png" width="50%" alt="fwd">
-  <img src="assets/bwd.png" width="50%" alt="bwd">
+  <img src="assets/fwd.png" width="49%" alt="fwd">
+  <img src="assets/bwd.png" width="49%" alt="bwd">
 </p>
 
 ## 🚀 Usage
