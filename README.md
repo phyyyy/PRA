@@ -39,6 +39,7 @@ python test_cifar.py --dir adv_cifar10/PRA --log-dir results_cifar.log
 ## 📌 Citation 
 If you find this work useful in your research, please cite:
 
+```bibtex
 @article{sun2025propagation,
   title={Propagation rectified attack: on improving adversarial transferability},
   author={Sun, Xuxiang and Peng, Hongyu and Cheng, Gong and Han, Junwei},
@@ -48,6 +49,7 @@ If you find this work useful in your research, please cite:
   pages={222102},
   year={2025}
 }
+```
 
 ## 🧠 Acknowledgement
 We thank the authors of the following repositories for making their code open-source.  
